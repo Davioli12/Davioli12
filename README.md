@@ -52,9 +52,6 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e criar sol
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -65,9 +62,7 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e criar sol
 const skills = {
     backend: ["Python", "APIs RESTful", "Flask/FastAPI", "Automação"],
     frontend: ["HTML5", "CSS3", "JavaScript", "Design Responsivo"],
-    security: ["Kali Linux", "Lua Scripting", "Pentesting Básico"],
-    gamedev: ["Godot Engine", "Unity", "Arduino"],
-    databases: ["SQLite", "MySQL", "MongoDB"],
+    databases: ["SQLite", "MySQL"],
     other: ["Git/GitHub", "Linux", "Bots/Automação"]
 };
 ```
@@ -76,31 +71,7 @@ const skills = {
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
 
-### 🎮 [NexZone](https://github.com/DaviOli12/NexZone)
-**Plataforma de Hospedagem de Jogos**  
-*Python • Web • Sistema de Moedas*
-
-Plataforma completa com economia virtual (NexCoin) para upload e gerenciamento de jogos online.
-
----
-
-### 🎮 [Game Controller Arduino](https://github.com/DaviOli12/Arduino-Controller)
-**Controle Xbox Simulado**  
-*Arduino • Python • Hardware*
-
-Simulador de controle Xbox integrado com Arduino e Python para jogos customizados.
-
----
-
-### 🔫 [Godot FPS Online](https://github.com/DaviOli12/Godot-FPS)
-**FPS 3D Multiplayer**  
-*Godot • Python • Networking*
-
-Jogo de tiro em primeira pessoa 3D com servidor Python para partidas online.
-
-</div>
 
 ---
 
@@ -118,12 +89,11 @@ Jogo de tiro em primeira pessoa 3D com servidor Python para partidas online.
 
 ## 🎯 Objetivos 2025
 
-- [ ] 🌐 Dominar **React** e **Node.js**
-- [ ] 🐍 Aprofundar em **Django** e **FastAPI**
-- [ ] 🔐 Completar certificações em **CyberSecurity**
-- [ ] 🎮 Lançar jogo indie completo
+- [ ] 🌐 Dominar **Python** e **htlp**
+- [ ] 🐍 Aprofundar em **Flask** e **FastAPI**
+- [ ] 🔐 Completar certificações em **Desenvolvimento de sistemas**
 - [ ] 📚 Contribuir com projetos open-source
-- [ ] 🤖 Criar bot de automação complexo
+- [ ] 🤖 Criar bot de automação
 
 ---
 
@@ -142,8 +112,7 @@ Jogo de tiro em primeira pessoa 3D com servidor Python para partidas online.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaviOli12-181717?style=for-the-badge&logo=github)](https://github.com/DaviOli12)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsve367@gmail.com)
 
 </div>
 
