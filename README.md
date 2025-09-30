@@ -70,7 +70,11 @@ const skills = {
 
 ## 🚀 Projetos em Destaque
 
+<div align="center">
 
+### 🎮 [Lembranças de Aurora](https://github.com/DaviOli12/Lembrancas-Aurora)
+**Pequeno esqueleto de um trabalho**  
+*Python • Web • Escolar*
 
 ---
 
